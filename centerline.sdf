@@ -1,0 +1,22 @@
+
+<?xml version="1.0"?>
+<sdf version="1.9">
+  <model name="racing_centerline">
+    <static>true</static>
+    <link name="centerline_link">
+      <visual name="yellow_dashed_line">
+        <geometry>
+          <mesh>
+            <uri>file:///home/mahmoud-zoheir/gazebo_car_project/centerline_mesh.stl</uri>
+          </mesh>
+        </geometry>
+        <material>
+          <ambient>1 0.7 0 1</ambient>
+          <diffuse>1 0.7 0 1</diffuse>
+          <specular>0 0 0 1</specular>
+          <emissive>0.8 0.5 0 1</emissive>
+        </material>
+      </visual>
+    </link>
+  </model>
+</sdf>

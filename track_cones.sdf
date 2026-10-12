@@ -1,0 +1,3426 @@
+<?xml version="1.0"?>
+<sdf version="1.9">
+  <model name="track_boundary_cones">
+    <static>true</static>
+
+    <link name="cone_0">
+      <pose>-49.48815377746655 -26.121371983688974 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_1">
+      <pose>-52.67742272197938 -22.382962745043372 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_2">
+      <pose>-57.30243900748897 -20.69117482336287 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_3">
+      <pose>-62.23000986462446 -20.17945598164907 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_4">
+      <pose>-67.18542504963719 -20.025498391042746 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_5">
+      <pose>-72.13167051416161 -19.71110639425467 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_6">
+      <pose>-76.92876357612118 -18.531761026158662 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_7">
+      <pose>-80.62328527975612 -15.357187380015802 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_8">
+      <pose>-81.6753105185197 -10.578671669549138 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_9">
+      <pose>-80.03080190791965 -5.995558826173578 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_10">
+      <pose>-75.97460695824682 -3.243274623222248 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_11">
+      <pose>-71.16371676333486 -2.090973529735521 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_12">
+      <pose>-66.22338770576354 -1.699903607114379 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_13">
+      <pose>-61.26612114142375 -1.643433152583142 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_14">
+      <pose>-56.30827506804292 -1.658656920049779 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_15">
+      <pose>-51.3592237476669 -1.411405916905224 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_16">
+      <pose>-48.226031889808326 1.088125970799396 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_17">
+      <pose>-50.59676001599517 5.4327084659581 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_18">
+      <pose>-53.19257248733693 9.65603784634817 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_19">
+      <pose>-55.38888153416454 14.0982346487759 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_20">
+      <pose>-57.17032841385134 18.723974457312792 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_21">
+      <pose>-58.80812238339473 23.403517111154954 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_22">
+      <pose>-60.63132786525776 28.0130431973666 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_23">
+      <pose>-62.755898654654715 32.49203018833856 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_24">
+      <pose>-65.01908908422445 36.903198257175575 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_25">
+      <pose>-67.28308084121687 41.313961951648224 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_26">
+      <pose>-69.43359585257005 45.780829260453714 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_27">
+      <pose>-71.31904509631968 50.36475622629047 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_28">
+      <pose>-72.65120703080493 55.13440156700182 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_29">
+      <pose>-72.74199675724927 60.063200234494616 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_30">
+      <pose>-70.39622233580931 64.33092326181259 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_31">
+      <pose>-66.00468565203627 66.52325960623713 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_32">
+      <pose>-61.08958507093311 67.04123865795032 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_33">
+      <pose>-56.23887041938883 66.1367203682752 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_34">
+      <pose>-52.41499770874147 63.129415736284614 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_35">
+      <pose>-51.005377136189495 58.40577808120406 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_36">
+      <pose>-49.02254051496023 53.96091448192112 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_37">
+      <pose>-44.68972522752699 51.66802695455257 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_38">
+      <pose>-41.603353246810414 53.97116715651896 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_39">
+      <pose>-42.443916962594116 58.84769533286823 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_40">
+      <pose>-43.79251428717177 63.61834269494864 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_41">
+      <pose>-45.12419270847198 68.39358629591368 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_42">
+      <pose>-45.84019792030776 73.28586934874409 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_43">
+      <pose>-43.438452026352195 77.23464336400852 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_44">
+      <pose>-38.62666383444426 76.58108337943011 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_45">
+      <pose>-34.67719158920528 73.65765868480551 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_46">
+      <pose>-32.308495452335904 69.33412541000331 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_47">
+      <pose>-31.118586009117806 64.5265228058542 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_48">
+      <pose>-30.255622868448967 59.64450929390648 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_49">
+      <pose>-28.706774588729246 54.955631176860436 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_50">
+      <pose>-24.957662756786192 51.882928208071434 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_51">
+      <pose>-21.362707780674654 48.598880253336915 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_52">
+      <pose>-20.475997183664916 43.784084815529155 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_53">
+      <pose>-21.402543190455376 38.92408945301517 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_54">
+      <pose>-23.01110696104317 34.23581762413954 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_55">
+      <pose>-24.825926063343644 29.62205832124711 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_56">
+      <pose>-26.58845045702003 24.988317959157186 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_57">
+      <pose>-28.056366040114284 20.254542157921904 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_58">
+      <pose>-28.82554768219275 15.367490731848306 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_59">
+      <pose>-26.548335148758355 11.520919897069447 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_60">
+      <pose>-21.611932314360928 11.361192412612453 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_61">
+      <pose>-16.67810869331123 11.847370936908419 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_62">
+      <pose>-11.733618210192901 12.192184917080453 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_63">
+      <pose>-6.800718946544634 11.813434532572913 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_64">
+      <pose>-2.3186971093604 9.805807852334837 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_65">
+      <pose>0.488323994295484 5.788540593667406 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_66">
+      <pose>1.479074765021394 0.952233579134955 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_67">
+      <pose>1.0335316050367 -3.967938462716702 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_68">
+      <pose>-1.059957869128382 -8.417386273709027 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_69">
+      <pose>-5.231606800563441 -10.905700306346901 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_70">
+      <pose>-10.170589429816232 -11.177195318114912 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_71">
+      <pose>-15.101465298264571 -11.494789601710465 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_72">
+      <pose>-19.415334329425093 -13.890842849229927 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_73">
+      <pose>-24.253835870031878 -14.85196688676632 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_74">
+      <pose>-27.85228855776498 -17.13187717840053 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_75">
+      <pose>-26.559881675794756 -21.897586963757902 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_76">
+      <pose>-24.605737190141838 -26.453611874091408 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_77">
+      <pose>-22.59083306711409 -30.98357118877719 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_78">
+      <pose>-20.725618274487616 -35.5766440355579 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_79">
+      <pose>-19.18443334824474 -40.287196360390695 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_80">
+      <pose>-18.153271275897026 -45.13374343434697 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_81">
+      <pose>-17.78997071100956 -50.07287687280433 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_82">
+      <pose>-18.57307552365961 -54.943945893301645 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_83">
+      <pose>-21.935279013056473 -58.31626955817578 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_84">
+      <pose>-26.740149775041615 -57.55273771812959 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_85">
+      <pose>-30.962405622508328 -54.972368962233595 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_86">
+      <pose>-34.710148972096675 -51.73220197812834 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_87">
+      <pose>-37.9952511529867 -48.02395930887642 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_88">
+      <pose>-40.76714550910576 -43.91721342286557 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_89">
+      <pose>-43.081158425457346 -39.53429510317052 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_90">
+      <pose>-45.12230853966706 -35.01630756029233 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_91">
+      <pose>-47.1625883769394 -30.49792849883511 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>0.05 0.20 0.95 1</ambient>
+          <diffuse>0.05 0.20 0.95 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_92">
+      <pose>-46.91225432186005 -24.58495031405569 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_93">
+      <pose>-49.96116450993175 -20.688491429008963 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_94">
+      <pose>-54.30434713808256 -18.34755587077926 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_95">
+      <pose>-59.17273788862295 -17.39715324151946 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_96">
+      <pose>-64.13206512047682 -17.10628143810891 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_97">
+      <pose>-69.0984877060774 -16.94869251886354 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_98">
+      <pose>-74.02341104586057 -16.342895639514097 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_99">
+      <pose>-78.08446566194615 -13.75196436914895 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_100">
+      <pose>-78.31967800645984 -8.920552134841401 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_101">
+      <pose>-74.55297279390473 -5.91677379629752 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_102">
+      <pose>-69.69283815512597 -4.935107627638644 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_103">
+      <pose>-64.73285681128189 -4.661853352874843 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_104">
+      <pose>-59.76395266361985 -4.651795062943762 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_105">
+      <pose>-54.795121202976105 -4.635986014021526 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_106">
+      <pose>-49.84917756152382 -4.213932812370913 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_107">
+      <pose>-45.580114414516956 -1.944848060419915 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_108">
+      <pose>-45.68313363633621 2.805010841153887 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_109">
+      <pose>-48.12027618560154 7.129947931873915 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_110">
+      <pose>-50.71278307433242 11.368159793673584 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_111">
+      <pose>-52.86947931566793 15.84178627000054 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_112">
+      <pose>-54.611799699155796 20.49453573613171 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_113">
+      <pose>-56.263893507327964 25.18080083819929 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_114">
+      <pose>-58.13443636713899 29.783299260154493 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_115">
+      <pose>-60.28762058343543 34.261126156187345 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_116">
+      <pose>-62.56091139733485 38.67965632469128 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_117">
+      <pose>-64.82412031592199 43.10333351375684 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_118">
+      <pose>-66.95795035641456 47.59044670582392 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_119">
+      <pose>-68.78408433270323 52.209736590973165 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_120">
+      <pose>-69.88609928300457 57.04350446109183 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_121">
+      <pose>-68.74456346572333 61.739021086917575 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_122">
+      <pose>-64.33148025166474 63.81518460986226 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_123">
+      <pose>-59.385187910813556 63.877428769021094 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_124">
+      <pose>-55.06121813328987 61.70726393943943 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_125">
+      <pose>-53.76641047038433 56.937583931475785 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_126">
+      <pose>-51.72595782171197 52.464876384425764 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_127">
+      <pose>-47.74422266432396 49.55836745842433 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_128">
+      <pose>-42.934706639679405 48.50511233594324 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_129">
+      <pose>-39.039694266883004 51.09143314357294 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_130">
+      <pose>-38.785338327166116 55.997309271071146 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_131">
+      <pose>-39.86946218481974 60.843552828710216 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_132">
+      <pose>-41.25283607207646 65.61608283637716 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_133">
+      <pose>-42.50872693058375 70.42241447705709 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_134">
+      <pose>-41.624024542603564 74.38613041940442 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_135">
+      <pose>-37.30258902924052 72.09563413062952 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_136">
+      <pose>-34.950036644846406 67.76956098227507 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_137">
+      <pose>-33.882481785339735 62.92038559883875 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_138">
+      <pose>-32.97494917173694 58.03580636716475 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_139">
+      <pose>-31.267630503164497 53.388360172235366 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_140">
+      <pose>-27.79610649249946 49.922640367490914 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_141">
+      <pose>-23.920988466313332 47.007728510937 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_142">
+      <pose>-23.707951759515865 42.119312645557244 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_143">
+      <pose>-25.065523246839987 37.34414305694503 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_144">
+      <pose>-26.831122670779962 32.69971203733118 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_145">
+      <pose>-28.648129859804698 28.074837905355906 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_146">
+      <pose>-30.28600473132221 23.384361178395906 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_147">
+      <pose>-31.493722556686095 18.567623889931184 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_148">
+      <pose>-31.724560984396646 13.623963443522669 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_149">
+      <pose>-29.311954934431057 9.46505354186742 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_150">
+      <pose>-24.55160783601798 8.273087347238729 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_151">
+      <pose>-19.592476090185528 8.52803264554116 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_152">
+      <pose>-14.648431016838018 9.025111096730981 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_153">
+      <pose>-9.685428517008773 9.161127137022106 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_154">
+      <pose>-4.911213842359842 7.958477821192744 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_155">
+      <pose>-2.071686985939081 4.028307521997846 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_156">
+      <pose>-1.525312297208288 -0.883812882067375 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_157">
+      <pose>-2.79236601546836 -5.647351008291196 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_158">
+      <pose>-6.82951071477801 -8.119540178454827 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_159">
+      <pose>-11.795785876074603 -8.156531958002603 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_160">
+      <pose>-16.688235184222833 -8.855808791353184 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_161">
+      <pose>-20.998588668884366 -11.295098487228358 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_162">
+      <pose>-25.90616809744138 -11.993531958294696 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_163">
+      <pose>-30.15153792779344 -14.216584921489897 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_164">
+      <pose>-30.611673003560867 -19.039854616820364 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_165">
+      <pose>-29.049544737947713 -23.75038609176464 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_166">
+      <pose>-27.06299042244393 -28.304789132888672 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_167">
+      <pose>-25.054423610312796 -32.849706867008265 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_168">
+      <pose>-23.227734749921325 -37.47001573964835 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_169">
+      <pose>-21.782142455099674 -42.221751409696175 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_170">
+      <pose>-20.927401289118734 -47.11282596496851 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_171">
+      <pose>-20.939403807147812 -52.06997019505264 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_172">
+      <pose>-23.69057157428189 -55.4123038983298 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_173">
+      <pose>-28.14906793388309 -53.296861647660386 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_174">
+      <pose>-32.00596580879807 -50.17180882716492 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_175">
+      <pose>-35.36557112926258 -46.51673218620479 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_176">
+      <pose>-38.16835071263819 -42.41825219611364 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_177">
+      <pose>-40.47884072330449 -38.02104590252096 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_178">
+      <pose>-42.516292749902235 -33.48911707680871 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+
+    <link name="cone_179">
+      <pose>-44.57089547732781 -28.96504052836363 0.15 0 0 0</pose>
+
+      <visual name="body">
+        <geometry>
+          <cone>
+            <radius>0.11</radius>
+            <length>0.30</length>
+          </cone>
+        </geometry>
+
+        <material>
+          <ambient>1 0.85 0.05 1</ambient>
+          <diffuse>1 0.85 0.05 1</diffuse>
+        </material>
+      </visual>
+    </link>
+
+  </model>
+</sdf>

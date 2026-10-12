@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Backup files
+*_backup.sdf
+*_backup.py
+*_before_odom.sdf
+
+# ROS 2 build files
+build/
+install/
+log/
+
+# System files
+.DS_Store
